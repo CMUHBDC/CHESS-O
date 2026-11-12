@@ -2,7 +2,7 @@
 
 This repository contains the analysis code supporting the manuscript:
 
-**Artificial Intelligence–Based Chest Radiography Screening for Osteoporosis: Model Development, External Validation, Fracture Risk Prediction, and Lead Time Evaluation**
+**Fracture Risk and Lead Time With AI-Based Osteoporosis Screening on Routine Chest Radiographs**
 
 ## Overview
 
